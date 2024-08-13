@@ -50,8 +50,7 @@ Found many missing data , had to delete those rows.
 - Python: The main programming language used for the project.
 - pandas: For data manipulation and analysis.
 - NumPy: For numerical operations.
-- TextBlob: For sentiment analysis.
+- RegexTokenizer, Stopwords,Bigram Trigram: For sentiment analysis.
 - Matplotlib and Seaborn: For data visualization.
-- WordCloud: For creating word clouds.
-- emoji: For emoji analysis
-- string: for analysis the effect the use punctuation in title on likes and views
+- Geocoder: For extracting geographical coordinates
+
